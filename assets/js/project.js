@@ -34,7 +34,7 @@ const projects = [
     cardImage: "assets/images/projet/cv_video.jpg",
     description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
     tagimg: "",
-    Previewlink: "assets/projet/video/CV_vidéo_Alexy_1.mp4",
+    Previewlink: "assets/images/video/CV_vidéo_Alexy_1.mp4",
     Githublink: "",
   },
   {
