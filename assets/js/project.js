@@ -48,7 +48,7 @@ const projects = [
   },
    {
     title: "Mini Teaser d'une agence inventée portant sur le thème de l'impressionnisme",
-    cardImage: "",
+    cardImage: "assets/images/Teaser.png",
     description: "Un aperçu de teaser montrant quelques éléments clés de l'impressionnisme (des exemples d'expositions que pourrait proposer l'agence en question)",
     tagimg: "https://youtu.be/fzEhkdpvWTc",
     Previewlink: "https://youtu.be/fzEhkdpvWTc",
@@ -62,16 +62,16 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
-
-  //{
-  //  title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
-  //  cardImage: "",
-  //  description:
-  //    "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
-  //  tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-  //  Previewlink: "",
-  //  Githublink: "",
-  //},
+  
+  {
+    title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
+    cardImage: "",
+    description:
+      "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "",
+  },
 ];
 
 // function for rendering project cards data
