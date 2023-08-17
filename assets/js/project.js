@@ -56,7 +56,7 @@ const projects = [
   },
   {
     title: "Projet personnel : Création de cartes sur Photoshop",
-    cardImage: "",
+    cardImage: "assets/images/creation_carte.jpg",
     description: "Un site web de collection de mes cartes créés sur Photoshop par extension (Cartes déja créé, en cours d'intégration dans un site web)",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
@@ -64,7 +64,11 @@ const projects = [
   },
   
   {
+<<<<<<< HEAD
     title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
+=======
+    title: "Projet personnel en cours de refonte : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
+>>>>>>> d95c50873e814f04311975589deead8735dce010
     cardImage: "",
     description:
       "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
