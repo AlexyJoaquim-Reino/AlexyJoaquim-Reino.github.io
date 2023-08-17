@@ -56,7 +56,7 @@ const projects = [
   },
   {
     title: "Projet personnel : Création de cartes sur Photoshop",
-    cardImage: "assets/images/carte copie.jpg",
+    cardImage: "assets/images/creation_carte.jpg",
     description: "Un site web de collection de mes cartes créés sur Photoshop par extension (Cartes déja créé, en cours d'intégration dans un site web)",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
