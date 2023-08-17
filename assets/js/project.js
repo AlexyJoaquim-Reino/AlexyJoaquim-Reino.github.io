@@ -64,7 +64,7 @@ const projects = [
   },
   
   {
-    title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire (Projet en  cours de refonte)",
+    title: "Projet personnel en cours de refonte : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
     cardImage: "",
     description:
       "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
