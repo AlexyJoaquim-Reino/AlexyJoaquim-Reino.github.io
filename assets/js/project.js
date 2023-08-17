@@ -25,9 +25,9 @@ const projects = [
     title: "Montage vidéo d'une interview d'un gérant de livres numériques",
     cardImage: "assets/images/projet/trace_portfolio.gif",
     description: "Flappy bird game built using React.js",
-    tagimg:"assets/video/Montage_Interview_Joaquim-Reino_Alexy.mp4",
-    Previewlink: "assets/video/Montage_Interview_Joaquim-Reino_Alexy.mp4",
-    Githublink: "",
+    tagimg:"https://www.youtube.com/watch?v=t0aek8LdQek",
+    Previewlink: "https://www.youtube.com/watch?v=t0aek8LdQek",
+    Githublink: "https://www.youtube.com/watch?v=t0aek8LdQek",
   },
   {
     title: "CV Vidéo",
