@@ -33,8 +33,8 @@ const projects = [
     title: "CV Vidéo",
     cardImage: "assets/images/projet/cv_video.jpg",
     description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
-    tagimg: "",
-    Previewlink: "assets/images/video/CV_vidéo_Alexy_1.mp4",
+    tagimg: "https://youtu.be/kibhaDzDUrU",
+    Previewlink: "https://youtu.be/kibhaDzDUrU",
     Githublink: "",
   },
   {
@@ -46,23 +46,32 @@ const projects = [
     Previewlink: "https://reino-joaquim-alexy.leaderdelivery-togo.com/",
     Githublink: "",
   },
+   {
+    title: "Mini Teaser d'une agence inventée portant sur le thème de l'impressionnisme",
+    cardImage: "",
+    description: "Un aperçu de teaser montrant quelques éléments clés de l'impressionnisme (des exemples d'expositions que pourrait proposer l'agence en question)",
+    tagimg: "https://youtu.be/fzEhkdpvWTc",
+    Previewlink: "https://youtu.be/fzEhkdpvWTc",
+    Githublink: "https://youtu.be/fzEhkdpvWTc",
+  },
   {
     title: "Projet personnel : Création de cartes sur Photoshop",
     cardImage: "",
-    description: "Un site web de collection de mes cartes créés sur Photoshop par extension",
+    description: "Un site web de collection de mes cartes créés sur Photoshop par extension (Cartes déja créé, en cours d'intégration dans un site web)",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
     Githublink: "",
   },
-  {
-    title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
-    cardImage: "",
-    description:
-      "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel. Ce montage est accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
-  },
+
+  //{
+  //  title: "Projet personnel : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
+  //  cardImage: "",
+  //  description:
+  //    "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
+  //  tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+  //  Previewlink: "",
+  //  Githublink: "",
+  //},
 ];
 
 // function for rendering project cards data
@@ -77,7 +86,7 @@ const showCards = () => {
             <div class="data">
               <div class="content">
               <div class="title-div">
-                <h1 class="title"><a href="#">${title}</a></h1>
+                <h1 class="title"><a href="${Previewlink}">${title}</a></h1>
                 </div>
             <ul class="menu-content"><br>
                   <li><a href="${Previewlink}" class="social-icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" viewBox="0 0 30 28" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-monitor"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg></a></li>
