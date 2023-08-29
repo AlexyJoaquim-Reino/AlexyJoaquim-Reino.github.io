@@ -48,19 +48,19 @@ const projects = [
   },
    {
     title: "Mini Teaser d'une agence inventée portant sur le thème de l'impressionnisme",
-    cardImage: "/assets/images/projet/Teaser.png",
+    cardImage: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
     description: "Un aperçu de teaser montrant quelques éléments clés de l'impressionnisme (des exemples d'expositions que pourrait proposer l'agence en question)",
-    tagimg: "https://youtu.be/fzEhkdpvWTc",
-    Previewlink: "https://youtu.be/fzEhkdpvWTc",
-    Githublink: "https://youtu.be/fzEhkdpvWTc",
+    tagimg: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
+    Previewlink: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
+    Githublink: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
   },
   {
     title: "Projet personnel : Création de cartes sur Photoshop",
-    cardImage: "/assets/images/projet/creation_carte.jpg",
+    cardImage: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
     description: "Un site web de collection de mes cartes créés sur Photoshop par extension (Cartes déja créé, en cours d'intégration dans un site web)",
-    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-    Previewlink: "",
-    Githublink: "",
+    tagimg: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
+    Previewlink: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
+    Githublink: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
   },
   
   {
