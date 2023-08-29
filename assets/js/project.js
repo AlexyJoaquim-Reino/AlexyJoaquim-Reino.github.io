@@ -50,9 +50,9 @@ const projects = [
     title: "Mini Teaser d'une agence inventée portant sur le thème de l'impressionnisme",
     cardImage: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
     description: "Un aperçu de teaser montrant quelques éléments clés de l'impressionnisme (des exemples d'expositions que pourrait proposer l'agence en question)",
-    tagimg: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
-    Previewlink: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
-    Githublink: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
+    tagimg: "https://youtu.be/fzEhkdpvWTc",
+    Previewlink: "https://youtu.be/fzEhkdpvWTc",
+    Githublink: "https://youtu.be/fzEhkdpvWTc",
   },
   {
     title: "Projet personnel : Création de cartes sur Photoshop",
