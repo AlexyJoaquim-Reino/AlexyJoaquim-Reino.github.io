@@ -1,0 +1,31 @@
+Survival Mechanics
+Survival Mechanics est un jeu de parcours où vous incarnez un robot qui doit esquiver les pièges et atteindre la ligne d'arrivée en vie. Le jeu se déroule sur une route remplie de dangers, et votre objectif est de survivre aussi longtemps que possible en évitant les obstacles.
+
+COMMENT JOUER
+Contrôles
+Utilisez les touches fléchées ou les touches W, A, S, D pour déplacer le robot.
+
+OBJECTIF
+Évitez les pièges sur la route en les sautant ou en les contournant.
+Atteignez la ligne d'arrivée pour terminer le niveau.
+
+DEBUT DE PARTIE
+Le jeu se charge puis commence réellement 5 secondes après au lancement.
+Une fois que le jeu a commencé, utilisez les contrôles pour déplacer le robot.
+
+FIN DE PARTIE
+La partie se termine si le robot atteint la ligne d'arrivée. Cependant, 
+lorsque ses PV tombent à 0, le joueur a la possibilité de recommencer
+depuis l'endroit où il est mort en faisant un clic gauche n'importe
+où dans l'écran. Dans ce cas, son score sera réinitialisé à 0 et le robot
+repartira avec 2 points de vie sur 5. 
+Vous pouvez recommencer le jeu en le fermant puis en le rallumant. Le
+record (s'il a été battu) sera sauvegardé.
+
+TECHNOLOGIE UTILISÉES
+Le jeu a été développé avec le moteur de jeu Unity.
+Les modèles 3D ont été réalisé sur Blender par Alexy Joaquim-Reino.
+
+Crédits
+Développé par Joaquim-Reino Alexy 
+Musique utilisée : Marble Blast
