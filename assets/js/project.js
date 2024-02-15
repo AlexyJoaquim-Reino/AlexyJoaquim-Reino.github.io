@@ -6,37 +6,44 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Création d'un gif d'une publicité pour un service sur Photoshop",
-    cardImage: "assets/images/projet/ToysRus.gif",
-    description: "Une animation pour un placement de produit chez Toys'R Us",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "assets/images/projet/ToysRus.gif",
-    Githublink: "assets/images/projet/ToysRus.gif",
+    title: "Création d'un jeu-vidéo de parcours et de survie sur Unity : Survival Mechanics",
+    cardImage: "assets/images/projet/Unity.png",
+    description:
+      "Jeu-vidéo de survie et de pârcours dont le but est d'atteindre la ligne d'arrivée sans mourir en esquivant les pièges.",
+    tagimg: "assets/images/projet/SurvivalMechanics.rar",
+    Previewlink: "assets/images/projet/SurvivalMechanics.rar",
+    Githublink: "assets/images/projet/SurvivalMechanics.rar",
   },
+
   {
-    title: "Mon portrait Chinois",
-    cardImage: "assets/images/projet/portrait_chinois_alexy.png",
-    description: "Un portrait chinois qui montre 7 de mes analogies qui me caractérisent le mieux selon ma personalité, mes goûts et mes centres d'intérêts.",
-    tagimg: "http://www.reino.butmmi.o2switch.site/portrait-chinois/portrait_chinois_alexy/",
-    Previewlink: "http://www.reino.butmmi.o2switch.site/portrait-chinois/portrait_chinois_alexy/",
-    Githublink: "",
+    title: "Modélisation 3D d'un robot, d'une route, d'un piège, d'une orange et d'une banane",
+    cardImage: "assets/images/projet/compilation_3D.gif",
+    description:
+      "Modélisation 3D d'un robot, d'une route, d'un piège, d'une orange et d'une banane, qui seront utilisés pour créer un jeu-vidéo sur Unity",
+    tagimg: "assets/images/projet/compilation_3D.gif",
+    Previewlink: "assets/images/projet/compilation_3D.gif",
+    Githublink: "assets/images/projet/compilation_3D.gif",
   },
+
   {
-    title: "Montage vidéo d'une interview d'un gérant de livres numériques",
-    cardImage: "assets/images/projet/trace_portfolio.gif",
-    description: "Flappy bird game built using React.js",
-    tagimg:"https://www.youtube.com/watch?v=t0aek8LdQek",
-    Previewlink: "https://www.youtube.com/watch?v=t0aek8LdQek",
-    Githublink: "https://www.youtube.com/watch?v=t0aek8LdQek",
+    title: "Classeur Virtuel de cartes créées sur Photoshop avec ajout de CSS pour ajouter de la brillance",
+    cardImage: "assets/images/projet/classeur_carte.png",
+    description: "Un classeur web montrant mes meilleures créations de cartes avec une brillance ajoutée à l'aide du CSS",
+    tagimg: "https://classeur-virtuel.vercel.app/",
+    Previewlink: "https://classeur-virtuel.vercel.app/",
+    Githublink: "https://classeur-virtuel.vercel.app/",
   },
+
   {
-    title: "CV Vidéo",
-    cardImage: "assets/images/projet/cv_video.jpg",
-    description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
-    tagimg: "https://youtu.be/kibhaDzDUrU",
-    Previewlink: "https://youtu.be/kibhaDzDUrU",
-    Githublink: "",
+    title: "Raconter une histoire à travers le motion design",
+    cardImage: "assets/images/projet/Raconter_Histoire.png",
+    description:
+      "Motion design puis montage de la vidéo. Certains pixel art ont été réalisés par moi-même. Tout a été animé grâce à mes compétences en motion design.",
+    tagimg: "https://www.youtube.com/watch?v=2h-jHrQTX9c&t=122s",
+    Previewlink: "https://www.youtube.com/watch?v=2h-jHrQTX9c&t=122s",
+    Githublink: "https://www.youtube.com/watch?v=2h-jHrQTX9c&t=122s",
   },
+
   {
     title: "Refonte du site vitrine de MMI Champs-sur-Marne",
     cardImage: "assets/images/projet/refonte_du_site.png",
@@ -46,31 +53,41 @@ const projects = [
     Previewlink: "https://reino-joaquim-alexy.leaderdelivery-togo.com/",
     Githublink: "",
   },
-   {
-    title: "Mini Teaser d'une agence inventée portant sur le thème de l'impressionnisme",
-    cardImage: "http://www.reino.butmmi.o2switch.site/teaser.jpg",
-    description: "Un aperçu de teaser montrant quelques éléments clés de l'impressionnisme (des exemples d'expositions que pourrait proposer l'agence en question)",
-    tagimg: "https://youtu.be/fzEhkdpvWTc",
-    Previewlink: "https://youtu.be/fzEhkdpvWTc",
-    Githublink: "https://youtu.be/fzEhkdpvWTc",
-  },
+
   {
-    title: "Projet personnel : Création de cartes sur Photoshop",
-    cardImage: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
-    description: "Un site web de collection de mes cartes créés sur Photoshop par extension (Cartes déja créé, en cours d'intégration dans un site web)",
-    tagimg: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
-    Previewlink: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
-    Githublink: "http://www.reino.butmmi.o2switch.site/creation_carte.jpg",
-  },
-  
-  {
-    title: "Projet personnel en cours de refonte : Montage vidéo d'un jeu retro pixel d'aventure et d'horreur pour modifier son histoire",
-    cardImage: "",
-    description:
-      "Un montage vidéo qui a permi d'imaginer une nouvelle histoire ou un autre point de vue d'une histoire d'un jeu vidéo retro-pixel, accompagné d'un long texte pour que le spectateur identifie parfaitement le point de vue du monteur vidéo.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    title: "CV Vidéo",
+    cardImage: "assets/images/projet/cv_video.jpg",
+    description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
+    tagimg: "https://youtu.be/kibhaDzDUrU",
+    Previewlink: "https://youtu.be/kibhaDzDUrU",
     Githublink: "",
+  },
+
+  {
+    title: "Montage vidéo d'une interview d'un gérant de livres numériques",
+    cardImage: "assets/images/projet/trace_portfolio.gif",
+    description: "Mise en place des plateaux de tournages puis montage de l'interview filmée",
+    tagimg:"https://www.youtube.com/watch?v=t0aek8LdQek",
+    Previewlink: "https://www.youtube.com/watch?v=t0aek8LdQek",
+    Githublink: "https://www.youtube.com/watch?v=t0aek8LdQek",
+  },
+
+  {
+    title: "Mon portrait Chinois",
+    cardImage: "assets/images/projet/portrait_chinois_alexy.png",
+    description: "Un portrait chinois qui montre 7 de mes analogies qui me caractérisent le mieux selon ma personalité, mes goûts et mes centres d'intérêts.",
+    tagimg: "https://portrait-chinois.vercel.app/",
+    Previewlink: "https://portrait-chinois.vercel.app/",
+    Githublink: "",
+  },
+
+  {
+    title: "Création d'un gif d'une publicité pour un service sur Photoshop",
+    cardImage: "assets/images/projet/ToysRus.gif",
+    description: "Une animation pour un placement de produit chez Toys'R Us",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "assets/images/projet/ToysRus.gif",
+    Githublink: "assets/images/projet/ToysRus.gif",
   },
 ];
 
