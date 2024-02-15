@@ -9,10 +9,11 @@ const projects = [
     title: "Création d'un jeu-vidéo de parcours et de survie sur Unity : Survival Mechanics",
     cardImage: "assets/images/projet/Unity.png",
     description:
-      "Jeu-vidéo de survie et de pârcours dont le but est d'atteindre la ligne d'arrivée sans mourir en esquivant les pièges.",
+      "Jeu-vidéo de survie et de parcours dont le but est d'atteindre la ligne d'arrivée sans mourir en esquivant les pièges.",
     tagimg: "assets/images/projet/SurvivalMechanics.rar",
     Previewlink: "assets/images/projet/SurvivalMechanics.rar",
     Githublink: "assets/images/projet/SurvivalMechanics.rar",
+    
   },
 
   {
@@ -91,6 +92,31 @@ const projects = [
   },
 ];
 
+ // Récupérez les éléments HTML où vous souhaitez ajouter les liens de téléchargement
+ const tagimgLinks = document.getElementsByClassName('data');
+ const previewLinks = document.getElementsByClassName('data');
+ const githubLinks = document.getElementsByClassName('data');
+
+ // Ajoutez des gestionnaires d'événements de clic pour déclencher le téléchargement
+ Array.from(tagimgLinks).forEach(function(element) {
+   element.addEventListener('click', function() {
+     window.location.href = projet.tagimg;
+   });
+ });
+
+ Array.from(previewLinks).forEach(function(element) {
+   element.addEventListener('click', function() {
+     window.location.href = projet.Previewlink;
+   });
+ });
+
+ Array.from(githubLinks).forEach(function(element) {
+   element.addEventListener('click', function() {
+     window.location.href = projet.Githublink;
+   });
+ });
+
+    
 // function for rendering project cards data
 const showCards = () => {
   let output = "";
