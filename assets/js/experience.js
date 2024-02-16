@@ -56,13 +56,13 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Unity",
-    cardImage: "assets/images/adobe-photoshop-logo-0 copie.png",
+    cardImage: "assets/images/Unity_copie.png",
     description:
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
     title: "Blender",
-    cardImage: "assets/images/adobe-photoshop-logo-0 copie.png",
+    cardImage: "assets/images/Blender_logo_no_textcopie.png",
     description:
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
