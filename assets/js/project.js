@@ -10,9 +10,9 @@ const projects = [
     cardImage: "assets/images/projet/Unity.png",
     description:
       "Jeu-vidéo de survie et de parcours dont le but est d'atteindre la ligne d'arrivée sans mourir en esquivant les pièges.",
-    tagimg: "assets/images/projet/SurvivalMechanics.exe",
-    Previewlink: "assets/images/projet/SurvivalMechanics.exe",
-    Githublink: "assets/images/projet/A_LIRE_AVANT_DE_JOUER.txt",
+    tagimg: "https://drive.google.com/file/d/1iJx1BrqwF0Xukf-41jjUKVyzA1v1bRQJ/view?usp=drive_link",
+    Previewlink: "https://drive.google.com/file/d/1iJx1BrqwF0Xukf-41jjUKVyzA1v1bRQJ/view?usp=drive_link",
+    Githublink: "https://drive.google.com/file/d/1iJx1BrqwF0Xukf-41jjUKVyzA1v1bRQJ/view?usp=drive_link",
     
   },
 
@@ -62,6 +62,15 @@ const projects = [
     tagimg: "https://youtu.be/kibhaDzDUrU",
     Previewlink: "https://youtu.be/kibhaDzDUrU",
     Githublink: "",
+  },
+
+  {
+    title: "Concept de Redesign d'un site web de jeu-vidéo",
+    cardImage: "assets/images/projet/RedesignSite.png",
+    description: "L'idée était de choisir un site web d'un jeu-vidéo et d'imaginer un redesign du site en question afin d'en proposer une meilleure version. On avait la possibilité d'ajouter des nouvelles fonctionalités sur le site.",
+    tagimg: "assets/docs/Site_Pokémon_GO_Concept_Redesign_Alexy.pdf",
+    Previewlink: "assets/docs/Site_Pokémon_GO_Concept_Redesign_Alexy.pdf",
+    Githublink: "assets/docs/Site_Pokémon_GO_Concept_Redesign_Alexy.pdf",
   },
 
   {

@@ -55,6 +55,30 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
+    title: "Unity",
+    cardImage: "assets/images/adobe-photoshop-logo-0 copie.png",
+    description:
+      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+  },
+  {
+    title: "Blender",
+    cardImage: "assets/images/adobe-photoshop-logo-0 copie.png",
+    description:
+      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+  },
+  {
+    title: "Adobe Première Pro",
+    cardImage: "assets/images/adobe-premiere-pro-logo-1-1.png",
+    description:
+      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+  },
+  {
+    title: "Adobe After Effects",
+    cardImage: "assets/images/adobe-after-effects-logo.png",
+    description:
+      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+  },
+  {
     title: "Photoshop",
     cardImage: "assets/images/adobe-photoshop-logo-0 copie.png",
     description:
@@ -71,24 +95,6 @@ const volunteershipcards = [
     cardImage: "assets/images/IndESIGN-LOGO.png",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
-  },
-  {
-    title: "Adobe XD",
-    cardImage: "assets/images/Adobe_XD_CC_icon.svg.png",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Adobe Première Pro",
-    cardImage: "assets/images/adobe-premiere-pro-logo-1-1.png",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Adobe After Effects",
-    cardImage: "assets/images/adobe-after-effects-logo.png",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
   },
   {
     title: "Adobe Audition",
