@@ -10,9 +10,9 @@ const projects = [
     cardImage: "assets/images/projet/Unity.png",
     description:
       "Jeu-vidéo de survie et de parcours dont le but est d'atteindre la ligne d'arrivée sans mourir en esquivant les pièges.",
-    tagimg: "assets/images/projet/SurvivalMechanics.rar",
-    Previewlink: "assets/images/projet/SurvivalMechanics.rar",
-    Githublink: "assets/images/projet/SurvivalMechanics.rar",
+    tagimg: "assets/images/projet/SurvivalMechanics.exe",
+    Previewlink: "assets/images/projet/SurvivalMechanics.exe",
+    Githublink: "assets/images/projet/A_LIRE_AVANT_DE_JOUER.txt",
     
   },
 
