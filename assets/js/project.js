@@ -75,7 +75,7 @@ const projects = [
   },
 
   {
-    title: "Motion Design African School Way",
+    title: "Motion Design African School Way réalisé par groupe de 5 personnes",
     cardImage: "assets/images/projet/African_School_Way.png",
     description: "",
     tagimg: "https://www.youtube.com/watch?v=hwdh-X1KJek&t=1s",
