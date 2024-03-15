@@ -75,6 +75,15 @@ const projects = [
   },
 
   {
+    title: "Motion Design African School Way",
+    cardImage: "assets/images/projet/African_School_Way.png",
+    description: "",
+    tagimg: "https://www.youtube.com/watch?v=hwdh-X1KJek&t=1s",
+    Previewlink: "https://www.youtube.com/watch?v=hwdh-X1KJek&t=1s",
+    Githublink: "https://www.youtube.com/watch?v=hwdh-X1KJek&t=1s",
+  },
+
+  {
     title: "Concept de Redesign d'un site web de jeu-vidéo",
     cardImage: "assets/images/projet/RedesignSite.png",
     description: "L'idée était de choisir un site web d'un jeu-vidéo et d'imaginer un redesign du site en question afin d'en proposer une meilleure version. On avait la possibilité d'ajouter des nouvelles fonctionalités sur le site.",
