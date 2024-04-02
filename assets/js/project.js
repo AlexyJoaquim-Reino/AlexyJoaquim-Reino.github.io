@@ -111,7 +111,7 @@ const projects = [
   },
 
   {
-    title: "Leporello inspiré de Viens chez moi, j'habite dehors + Justificatif",
+    title: "Dessin : Leporello inspiré de Viens chez moi, j'habite dehors + Justificatif",
     cardImage: "assets/images/projet/Leporello.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -120,7 +120,7 @@ const projects = [
   },
 
   {
-    title: "Le livre des 7 Mots",
+    title: "Dessin : Le livre des 7 Mots",
     cardImage: "assets/images/projet/Livre_des_7_mots.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
