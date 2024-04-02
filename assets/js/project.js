@@ -116,8 +116,7 @@ const projects = [
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "assets/images/projet/Leporello.jpg",
-    Previewlink: "document/Justificatif_Leporello_Alexy.pdf",
-    Githublink: "",
+    Githublink: "document/Justificatif_Leporello_Alexy.pdf",
   },
 
   {
@@ -126,8 +125,7 @@ const projects = [
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "assets/images/projet/Livre_des_7_mots.jpg",
-    Previewlink: "document/Texte_justificatif_livre_des_7_mots.pdf",
-    Githublink: "",
+    Githublink: "document/Texte_justificatif_livre_des_7_mots.pdf",
   },
 
   {
