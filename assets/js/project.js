@@ -111,6 +111,26 @@ const projects = [
   },
 
   {
+    title: "Leporello inspiré de Viens chez moi, j'habite dehors + Justificatif",
+    cardImage: "assets/images/projet/Leporello.jpg",
+    description: "",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "assets/images/projet/Leporello.jpg",
+    Previewlink: "document/Justificatif_Leporello_Alexy.pdf",
+    Githublink: "",
+  },
+
+  {
+    title: "Le livre des 7 Mots",
+    cardImage: "assets/images/projet/Livre_des_7_mots.jpg",
+    description: "",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "assets/images/projet/Livre_des_7_mots.jpg",
+    Previewlink: "document/Texte_justificatif_livre_des_7_mots.pdf",
+    Githublink: "",
+  },
+
+  {
     title: "Création d'un gif d'une publicité pour un service sur Photoshop",
     cardImage: "assets/images/projet/ToysRus.gif",
     description: "Une animation pour un placement de produit chez Toys'R Us",
