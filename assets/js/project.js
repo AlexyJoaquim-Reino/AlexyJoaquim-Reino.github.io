@@ -120,7 +120,7 @@ const projects = [
   },
 
   {
-    title: "Dessin : Le livre des 7 Mots",
+    title: "Dessin:Le livre des 7 Mots",
     cardImage: "assets/images/projet/Livre_des_7_mots.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
