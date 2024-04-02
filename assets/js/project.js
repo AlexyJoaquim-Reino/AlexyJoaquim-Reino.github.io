@@ -27,7 +27,7 @@ const projects = [
   },
 
   {
-    title: "Classeur Virtuel de cartes créées sur Photoshop avec ajout de CSS pour ajouter de la brillance",
+    title: "Classeur Virtuel de cartes créées sur Photoshop avec ajout de CSS",
     cardImage: "assets/images/projet/classeur_carte.png",
     description: "Un classeur web montrant mes meilleures créations de cartes avec une brillance ajoutée à l'aide du CSS",
     tagimg: "https://classeur-virtuel.vercel.app/",
@@ -56,7 +56,7 @@ const projects = [
   },
 
   {
-    title: "Mini Teaser d'une Agence inventée de l'impressionnisme qui présente les meilleures oeuvres de cette même époque",
+    title: "Présentation sous forme de Motion Design des meilleures oeuvres de l'Impressionnisme",
     cardImage: "assets/images/projet/teaser.png",
     description: "",
     tagimg:
@@ -66,7 +66,7 @@ const projects = [
   },
 
   {
-    title: "CV Vidéo",
+    title: "Mon propre CV Vidéo",
     cardImage: "assets/images/projet/cv_video.jpg",
     description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
     tagimg: "https://youtu.be/kibhaDzDUrU",
@@ -102,7 +102,7 @@ const projects = [
   },
 
   {
-    title: "Mon portrait Chinois",
+    title: "Portrait Chinois : Choisir 7 analogies qui nous représente",
     cardImage: "assets/images/projet/portrait_chinois_alexy.png",
     description: "Un portrait chinois qui montre 7 de mes analogies qui me caractérisent le mieux selon ma personalité, mes goûts et mes centres d'intérêts.",
     tagimg: "https://portrait-chinois.vercel.app/",
@@ -111,7 +111,7 @@ const projects = [
   },
 
   {
-    title: "Dessin : Leporello inspiré de Viens chez moi, j'habite dehors + Justificatif",
+    title: "Leporello + Justificatif",
     cardImage: "assets/images/projet/Leporello.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -120,7 +120,7 @@ const projects = [
   },
 
   {
-    title: "Dessin:Le livre des 7 Mots",
+    title: "Le livre des 7 Mots",
     cardImage: "assets/images/projet/Livre_des_7_mots.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
