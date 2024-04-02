@@ -111,7 +111,7 @@ const projects = [
   },
 
   {
-    title: "Leporello + Document",
+    title: "Leporello + Écrit",
     cardImage: "assets/images/projet/Leporello.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
