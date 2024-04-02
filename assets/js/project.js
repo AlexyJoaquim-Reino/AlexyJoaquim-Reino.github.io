@@ -66,7 +66,7 @@ const projects = [
   },
 
   {
-    title: "Mon propre CV Vidéo",
+    title: "Mon propre CV Vidéo avec petite équipe de tournage",
     cardImage: "assets/images/projet/cv_video.jpg",
     description: "Un CV vidéo qui me représente en terme de personnalité, de goût et de centres d'intérêts.",
     tagimg: "https://youtu.be/kibhaDzDUrU",
@@ -111,7 +111,7 @@ const projects = [
   },
 
   {
-    title: "Leporello + Justificatif",
+    title: "Leporello + Document",
     cardImage: "assets/images/projet/Leporello.jpg",
     description: "",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
