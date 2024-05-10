@@ -6,6 +6,17 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Modélisation 3D + Animation assiette de donuts",
+    cardImage: "assets/images/projet/Donuts3D.tif",
+    description:
+      "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
+    tagimg: "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
+    Previewlink: "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
+    Githublink: "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
+    
+  },
+
+  {
     title: "Création d'un jeu-vidéo de parcours et de survie sur Unity : Survival Mechanics",
     cardImage: "assets/images/projet/Unity.png",
     description:
