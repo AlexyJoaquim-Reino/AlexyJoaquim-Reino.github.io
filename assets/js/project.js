@@ -6,8 +6,8 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Modélisation 3D + Animation assiette de donuts",
-    cardImage: "assets/images/projet/Donuts3D.tif",
+    title: "Modélisation 3D + Animation 3D assiette de donuts",
+    cardImage: "assets/images/projet/Animation3DDonuts.tif",
     description:
       "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
     tagimg: "https://www.youtube.com/watch?v=1iQk_N1Fb5Y",
