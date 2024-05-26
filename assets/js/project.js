@@ -29,7 +29,7 @@ const projects = [
 
   {
     title: "Modélisation 3D d'un robot, d'une route, d'un piège, d'une orange et d'une banane",
-    cardImage: "assets/images/projet/compilation_montage_modeles_3D_.mp4",
+    cardImage: "assets/images/projet/compilation_montage_modeles_3D.mp4",
     description:
       "Modélisation 3D d'un robot, d'une route, d'un piège, d'une orange et d'une banane, qui seront utilisés pour créer un jeu-vidéo sur Unity",
     tagimg: "assets/images/projet/compilation_3D.gif",
