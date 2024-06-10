@@ -6,6 +6,17 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Animation de personnage 3D dans un univers simple",
+    cardImage: "assets/images/projet/Animation_Robot_3D.png",
+    description:
+      "",
+    tagimg: "",
+    Previewlink: "assets/images/projet/AnimationRobot.mp4",
+    Githublink: "assets/images/projet/AnimationRobot.mp4",
+    
+  },
+
+  {
     title: "Modélisation 3D + Animation 3D assiette de donuts",
     cardImage: "assets/images/projet/Animation3DDonuts.png",
     description:
